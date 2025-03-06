@@ -17,6 +17,8 @@ The method results in low-dimensional embeddings (ABC, BAC, CAB) that reside in 
 
 ![Alt text](JointMDS3.png)
 
+For the implementation of Joint MDS3 with three synthetic data domains (Bifurction, Swiss roll and Circular Frustrum), please see [joint_mds3_synthetic_data.py](Joint_MDS3/joint_mds3_synthetic_data.py)
+
 ## Key Features
 - **Multi-modal Data Integration**: Integrates MRI radiomic features with genomic, transcriptomic, and copy number variant (CNV) data.
 - **Improved Accuracy**: Achieves superior performance compared to baseline models like UnionCom and SCOT, with a 73.5% average label transfer accuracy.
