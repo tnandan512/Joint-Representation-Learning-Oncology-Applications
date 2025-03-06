@@ -15,6 +15,8 @@ Joint MDS3 extends the original Joint MDS algorithm to integrate datasets from t
 
 The method results in low-dimensional embeddings (ABC, BAC, CAB) that reside in a common subspace across all three domains.
 
+![Alt text](JointMDS3.png)
+
 ## Key Features
 - **Multi-modal Data Integration**: Integrates MRI radiomic features with genomic, transcriptomic, and copy number variant (CNV) data.
 - **Improved Accuracy**: Achieves superior performance compared to baseline models like UnionCom and SCOT, with a 73.5% average label transfer accuracy.
