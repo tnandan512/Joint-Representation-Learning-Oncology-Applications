@@ -24,3 +24,7 @@ The method results in low-dimensional embeddings (ABC, BAC, CAB) that reside in 
 ## Data Availability 
 - Sequencing data was obtained from The Cancer Genome Atlas (TCGA) - publicly available
 - MRIs were obtained from the 2023 Brain Tumour Segmentation Challenge
+
+## Acknowledgments
+This work was supported by the Swiss National Science Foundation (TMSGI3_225913) and the Basel Research Center for Child Health Postdoctoral Excellence Fellowship (#PEP-2021-1008). Computational data analysis was performed on the ETH Zürich Euler computing cluster (https://sis.id.ethz.ch/services/hpc/)
+
